@@ -38,8 +38,8 @@ The goal is to transform raw sales data into actionable insights through an inte
 | File | Description |
 |------|--------------|
 | **AdventureWorks Sales Dashboard.xlsm** | The main Excel workbook containing data cleaning, pivot tables, and interactive dashboards. |
-| **time-analysis-dashboard.png** | Visual dashboard displaying time-based insights, including monthly and yearly sales trends, seasonality, and performance fluctuations. |
-| **product-dashboard.png** | Product-focused dashboard highlighting top-performing items, profit margins, and category-level analytics for better inventory and marketing decisions. |
+| **Time Analysis Dashboard.png** | Visual dashboard displaying time-based insights, including monthly and yearly sales trends, seasonality, and performance fluctuations. |
+| **Product and Regional Performance Dashboard.png** | Product-focused dashboard highlighting top-performing items, profit margins, and category-level analytics for better inventory and marketing decisions. |
 | **README.md** | Project documentation file containing project overview, usage instructions, and author details. |
 
 
