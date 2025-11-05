@@ -28,10 +28,10 @@ The goal is to transform raw sales data into actionable insights through an inte
 ## Dashboard Previews
 
 ### Time Analysis Dashboard
-![Time Analysis Dashboard](https://github.com/Chizzymann/AdventureWorks-Sales-Analytics/blob/ba21fa9bb17bba38b84196de0fe792a8d7e3d67c/Time%20Analysis%20Dashboard.png)
+![Time Analysis Dashboard](https://github.com/Chizzymann/AdventureWorks-Sales-Analytics/raw/ba21fa9bb17bba38b84196de0fe792a8d7e3d67c/Time%20Analysis%20Dashboard.png)
 
 ### Product and Regional Performance Dashboard
-![Product Dashboard](https://github.com/Chizzymann/AdventureWorks-Sales-Analytics/blob/ba21fa9bb17bba38b84196de0fe792a8d7e3d67c/Product%20and%20Regional%20Performance%20Dashboard.png)
+![Product Dashboard](https://github.com/Chizzymann/AdventureWorks-Sales-Analytics/raw/ba21fa9bb17bba38b84196de0fe792a8d7e3d67c/Product%20and%20Regional%20Performance%20Dashboard.png)
 
 
 ## File Description
